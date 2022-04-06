@@ -174,5 +174,5 @@
 
 
 //question7
-price1 = +prompt("Input price of item 1")
-console.log("price of item 1 is "+price1)
+// price1 = +prompt("Input price of item 1")
+// console.log("price of item 1 is "+price1)
